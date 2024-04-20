@@ -1,6 +1,6 @@
 -- Author: Hoki Attila
 -- Created: 2024-04-18
--- Task 1: Beszuras es ellenorzes idegen kulcs hasznalataval.
+-- Task 1: Beszuras es ellenorzes tarolt eljaras segitsegevel.
 -- Description:  A BERLET_TIPUS tabla elsodleges kulcsa egyben a BERLET tabla kulso kulcs referenciaja is.
 --               Az alabbi eljaras uj rekord felvetelet hajtra vegre a BERLET tablaba ellenorizve, hogy a 
 --               a megadott berlet tipus valoban letezik, majd a beszurast kovetoen megadja adott tipusu 
