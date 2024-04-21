@@ -1,5 +1,5 @@
 -- Author: Hoki Attila
--- Created: 2024-04-18
+-- Created: 2024-04-20
 -- Task 2: Trigger a SOFOR tablahoz tartozo DML operaciok logolasahoz.
 -- Description:  A SOFOR_AUDIT_LOG tabla es a hozza tartozo szekvencia letrehozasat
 --                az adatbazist letrehozo DML utasitasokba integraltam (CREATE_INSERT.sql).

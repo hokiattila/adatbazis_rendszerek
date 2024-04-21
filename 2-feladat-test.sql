@@ -4,7 +4,7 @@
 
 -- Teszteles valid inputra
 EXECUTE BerletekVasarlasDatumSzerint('2024-04-18');
-EXECUTE BerletekVasarlasDatumSzerint('2024-03-29');
+EXECUTE BerletekVasarlasDatumSzerint('2024-03-27');
 
 
 
